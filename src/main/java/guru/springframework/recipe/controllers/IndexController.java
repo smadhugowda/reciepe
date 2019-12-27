@@ -1,4 +1,4 @@
-package guru.springframework.reciepe.controllers;
+package guru.springframework.recipe.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
